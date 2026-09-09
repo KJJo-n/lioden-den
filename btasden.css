@@ -69,9 +69,9 @@ color: #HEX; } }
 width: 7px;
 height: 7px; }
 ::-webkit-scrollbar-track {
-background: #455473;}
+background: #020202;}
 ::-webkit-scrollbar-thumb {
-background: #609FA6; } 
+background: #455473; } 
  
 /* HEADERS -
 H1 is the big header that says 'X's Den'
@@ -79,7 +79,7 @@ H2 is not used anywhere in the default look unless you want to use it.
 H3 is used in the side bar (above the energy panel, achievement panel, etc. */
  
 h1 {
-color: #609FA6 !important;
+color: #455473 !important;
 font-size: 36px;}
 
 h2 {
