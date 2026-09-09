@@ -505,7 +505,7 @@ otherwise it can make your navbar look weird.
 div.container.main>div:nth-child(1)>nav>div.navbar-header>a>img {
 display: none;}
 div.container.main>div:nth-child(1)>nav>div.navbar-header>a::after {
-content: url('https://i.img-den.com/1039/Batman-_The_Animated_Series_logo.png'); }
+content: url('https://i.img-den.com/1039/batman-the-animated-series-logo-5.png'); }
  
 /* TEXT BOXES & BUTTONS -
 all text boxes and buttons will be whatever color you put in here
